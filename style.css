@@ -1,0 +1,68 @@
+body {
+    font-family: "Bahiana";
+    font-size: 40px;
+    background-color: #a9baae;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    font-family: "Bahiana";
+    font-size: 60px;
+    color: #567563;
+    -webkit-text-stroke: .25px #324d3d;
+    margin-bottom: 30px;
+}
+h3 {
+    font-family: "Bahiana";
+    color: #324d3d;
+}
+
+.two-faced {
+    border: 5px solid #324d3d;
+    border-radius: 20px;
+}
+
+p {
+    color: #324d3d;
+    margin: 10px 0;
+}
+
+input,
+button {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;
+}
+
+input {
+    border: 2px solid #324d3d;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 60%;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #567563;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #324d3d;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+div.content {
+    margin-top: 30px; margin-bottom: 30px;
+    padding-top: 20px;
+    border-top: 2px dashed #00796b;
+}

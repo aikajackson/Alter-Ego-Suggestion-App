@@ -1,0 +1,1 @@
+An application that suggests a new alter ego to spice up one's character.

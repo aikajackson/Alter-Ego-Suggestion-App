@@ -123,7 +123,7 @@ buttonTwo.addEventListener("click", function(){
             orange.style.display = "none";
         }
         else if (colorInput==="red"){
-            imageMusic.src = "https://express-images.franklymedia.com/6616/sites/356/2020/07/13101800/GettyImages-26365921.jpg";
+            imageMusic.src = "https://i.insider.com/6054ceb11fcb5700186ee6dc?width=600&format=jpeg&auto=webp";
             imageMusic.style.width = "300px";
             imageMusic.style.height = "200px";
             purple.style.display="none";
